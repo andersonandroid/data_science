@@ -9,9 +9,9 @@
 
 A informação é um patrimônio intangível, que quando lapidado pode transformar uma sociedade. É o ativo mais importante do mundo
 
-Minhas credenciais incluem pos graduação em Computação Forense e Perícia Digital no IPOG (Instituto de Pos Graduação), O corpo docente é formado por Peritos em Informática da Polícia Federal e 80% das disciplinas são práticas., e a graduação em Análise e Desenvolvimento de Sistemas para Internet (UNIFA).
+Minhas credenciais incluem pos graduação em Computação Forense e Perícia Digital no IPOG (Instituto de Pos Graduação), O corpo docente é formado por Peritos em Informática da Polícia Federal e 80% das disciplinas são práticas., e a graduação em Análise e Desenvolvimento de Sistemas para Internet (UNIFACS).
 
-**Background in:** Python, Machine Learning, Space Operations and Mathematical Optimisation.
+**Background in:** Python, PostgreSQL, Mongo DB, Sistemas Linux, IOT, Análise de Dados.
 
 **Links:**
 * [Site](https://www.andersonsantanadev.com/i)
